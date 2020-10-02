@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: 2;
+    justify-content: start;#
+    float: 70%;
+}
+.background{
+    background-color:rgba(0, 100, 200, 45%);
+    display: flex;
+    margin: 0px;
+}
+.knopka{
+    display: flex;
+}
+.stupid_text{
+    display: flex;
+}
+.stupid_table{
+    display: flex;
+}
+.stupid_button{
+    display: flex;
+}
